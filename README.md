@@ -40,10 +40,4 @@ Tecnologias que estou estudando no momento ou aplicando em projetos paralelos.
   <a href="https://discord.gg/menodexter" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
 </div>
 
-![snake gif](https://github.com/yuridellpozzo/yuridellpozzo/blob/output/github-contribution-grid-snake.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
